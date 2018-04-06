@@ -1,0 +1,28 @@
+.center {
+  text-align: center;
+  margin-left: 30px;
+  margin-right: 30px;
+  width: 50%;
+  border: 5px solid black; 
+  display: block;
+}
+
+.year {
+  font-weight: bold;
+}
+
+.quote {
+  font-family: monospace;
+  text-align: center; 
+}
+.person {
+  font-family: Monaco;
+  font-size: 10px;
+  font-weight: oblique;
+}
+.link {
+  font-family: monospace;
+  font-size: 20px;
+  text-align: left;
+  font-weight: bold;
+}
