@@ -14,12 +14,14 @@
 .quote {
   font-family: monospace;
   text-align: center; 
+
 }
 .person {
   font-family: Monaco;
   font-size: 10px;
   font-weight: oblique;
 }
+
 .link {
   font-family: monospace;
   font-size: 20px;
