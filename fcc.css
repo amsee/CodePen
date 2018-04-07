@@ -1,10 +1,10 @@
-.center {
+.container {
   text-align: center;
-  margin-left: 30px;
+/*   margin-left: 30px;
   margin-right: 30px;
-  width: 50%;
-  border: 5px solid black; 
-  display: block;
+  width: 50%; */
+/*   border: 5px solid black; 
+  display: block; */
 }
 
 .year {
@@ -27,4 +27,8 @@
   font-size: 20px;
   text-align: left;
   font-weight: bold;
+}
+
+.row {
+  text-align: center;
 }
